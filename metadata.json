@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bingo Virtual",
+  "description": "Plataforma de bingo virtual en tiempo real independiente para hasta 500 jugadores por sala con generador de cartones e interfaz de administrador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
